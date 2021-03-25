@@ -17,3 +17,15 @@ True
 
 Academics should be listed before work experience?
 False - (generally) if a student, then it makes sense to have academics
+
+
+KEEP THE RESUME SIMPLE
+Put best stuff "above the fold" - top half
+Quantify your experiences!
+- includes #s, %s, $ amounts wherever possible
+- potentials employers want to understand the impact made
+
+Tailor resumes to fit the job!
+
+Proofread Proofread PROOFREAD!
+
