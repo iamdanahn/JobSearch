@@ -55,6 +55,41 @@ function maxValue(n, rounds) {
 	return Math.max(...Object.values(investments));
 }
 
+
+
+
+function maxValue(n, rounds) {
+	// Write your code here
+	const investments = new Array(n).fill(0);
+	const investmentHash = {};
+
+	rounds.forEach((round) => {
+		const contribution = round[2]; //contribution quantity
+		const startIdx = round[0] - 1; // subtract 1 bc, 1 based index
+		const endIdx = round[1] - 1;
+
+		// (startIdx..endIdx).each do |i|
+		// 	investmentHash[i] += investment;
+		// end
+	});
+
+	return Math.max(...Object.values(investments));
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 function selectStock(saving, currentValue, futureValue) {
 	// Write your code here
 	// always >=1 stocks available
